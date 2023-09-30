@@ -21,7 +21,7 @@
 # Let's connect.   
 <img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width=25%>
 
-<a href="https://linkedin.com/in/tamspires"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height=30px /></a>  <a href="https://twitter.com/spiresmedia"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height=30px /></a>  <a href="https://facebook.com/spiresmedia"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height=30px /></a>  
+<a href="https://linkedin.com/in/tamspires"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height=30px /></a> <a href="https://facebook.com/spiresmedia"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height=30px /></a>  
 
 
 👧🏽 **Pronouns:** she/her/hers  
