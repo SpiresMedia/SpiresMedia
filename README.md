@@ -9,9 +9,9 @@
 > <p><details>
 >  <summary><i>read more</i></summary>
 >
->  <p>For more than <strong><i>two decades</strong></i>, I have built automated systems to improve efficiency for organizations. My tech journey started with a basic office skills workshop shortly after high school where I met <a href="https://en.wikipedia.org/wiki/Lotus_1-2-3">Lotus 1-2-3</a>. It was <strong>love</strong> at first spreadsheet. It was an instant connection, sparking my love for software, data, and content development.</p>
+>  <p>For more than <strong><i>two decades</strong></i>, I have built automated systems to improve efficiency for organizations. My tech journey started with a basic office skills workshop shortly after high school where I met <a href="https://en.wikipedia.org/wiki/Lotus_1-2-3">Lotus 1-2-3</a>. It was <strong>love</strong> at first spreadsheet...an instant connection, sparking my love for software, data, and content development.</p>
 >
-><p>Despite exploring other career paths, I <i><strong>always</strong></i> come back to true passion: web design and development. The thrill of unearthing a viable solution after a hard-fought battle with HTML, CSS, and JavaScript is unrivaled. Truth is: it’s just <strong><i>fun</strong></i> for me.</p>
+><p>Despite exploring other career paths, I <i><strong>always</strong></i> come back to my true passion: web design and development. The thrill of unearthing a viable solution after a hard-fought battle with HTML, CSS, and JavaScript is unrivaled. Truth is: it’s just <strong><i>fun</strong></i> for me.</p>
 >
 ><p>At the end of the day, I take off my developer hat to play video games or work on my digital journals. To completely unplug, nothing beats time with my beautiful family and amazing friends. 💜</p>
 </details></p>
