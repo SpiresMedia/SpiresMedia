@@ -27,9 +27,10 @@
 👧🏽 **Pronouns:** she/her/hers  
 ⚡ **Fun fact:** I love cookies.  
 
-🔭 I’m currently working on building my dev portfolio.  
-🌱 I’m currently learning how to be ok with making mistakes.  
-🤔 I’m looking for help with procrastination.  
+**I'm currently:**
+🔭 working on building my dev portfolio.  
+🌱 learning how to be ok with making mistakes.  
+🤔 looking for help with procrastination.  
 
 🛠️ **Tools I Use + Love:**  
 
