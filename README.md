@@ -28,6 +28,7 @@
 ⚡ **Fun fact:** I love cookies.  
 
 **I'm currently:**
+
 🔭 working on building my dev portfolio.  
 🌱 learning how to be ok with making mistakes.  
 🤔 looking for help with procrastination.  
